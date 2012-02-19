@@ -17,7 +17,8 @@ object MonteCarlo extends App {
 		(0 until trials).par.foreach(n => {
 			val pt = chooseInRect(unitSquare)
 
-			// Checks if pt is in the circle inscribed within the unit square
+			// Checks if pt is in the unit circle quarter inscribed within the unit
+			// square
 			if (distSquared(pt) <= 1) {
 				ptsInCircle += 1
 			}
