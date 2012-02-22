@@ -1,7 +1,7 @@
 Los Angeles Coding Dojo
 Feb. 22nd, 2012
 
-Links to solutions posted to ??? (TBA)
+Links to solutions posted to https://gist.github.com/1880924
 
 Problem: Estimate Pi Using the Monte Carlo Method 
 (http://en.wikipedia.org/wiki/Monte_Carlo_method)
