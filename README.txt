@@ -13,3 +13,6 @@ geometry. Inscribe a circle within a square, select a number of points
 within the square, and compare the number of points within the circle to 
 the number of points within the square. The ratio of the two counts 
 estimates the ratio of the areas.
+
+When you've finished, take a look at the other solutions that have been
+posted and feel free to ask questions!
